@@ -13,7 +13,7 @@ Pint==0.13
 pymongo==3.10.1
 pyparsing==2.4.7
 python-dateutil==2.7.5
-PyYAML==3.13
+PyYAML==5.1
 regex==2020.6.8
 six==1.15.0
 SQLAlchemy==1.2.19
